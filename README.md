@@ -1,0 +1,1 @@
+# Automatically-QR-Code-Generator
